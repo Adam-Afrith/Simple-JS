@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section
+{
+    background-image:url(images/apple.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+h1
+{
+    color: white;
+}
+.class-1
+{
+    top: 20px;
+    position: relative;
+ 
+}
